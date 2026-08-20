@@ -46,17 +46,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehakjain26&show_icons=true&theme=radial&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakjain26&layout=compact&theme=radial" />
-</div>
-
----
-
 ### 📬 Connect With Me
 - 📧 **Email**: [jain1002@purdue.edu](mailto:jain1002@purdue.edu) [mehakjain212000@gmail.com](mailto:mehakjain212000@gmail.com)
 - 📍 **Location**: Sunnyvale, CA
